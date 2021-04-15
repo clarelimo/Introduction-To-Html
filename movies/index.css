@@ -1,0 +1,19 @@
+h1{
+    border-width: 10px;
+    border-style: outset;
+}
+/* Hidden (no border shown in all cases)
+
+Dotted
+
+Dashed
+
+Double
+
+Groove
+
+Ridge
+
+Inset
+
+Outset */
